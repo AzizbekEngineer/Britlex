@@ -3,6 +3,7 @@
   padding: 0;
   text-decoration: none;
   list-style: none;
+  scroll-behavior: smooth;
 }
 
 *,
@@ -51,6 +52,6 @@ button {
   display: none;
 }
 
-.show-bactop{
-    display: flex !important;
+.show-bactop {
+  display: flex !important;
 }
